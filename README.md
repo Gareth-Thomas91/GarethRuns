@@ -1,2 +1,2 @@
-# Gruns
+# GarethRuns
 Running blog website
